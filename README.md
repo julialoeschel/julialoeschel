@@ -1,6 +1,10 @@
 <h1> Hello there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-this is a page about myself, and its under construction.
+Thanks for stopping by!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${julialoeschel})
+![Mood](https://img.shields.io/badge/mood-happy-success)
+![Mood](https://img.shields.io/badge/excited-about%20Frontend-yellow)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=julialoeschel&theme=tokyonight_duo)](https://git.io/streak-stats)
 
