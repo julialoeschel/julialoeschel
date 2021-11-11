@@ -1,6 +1,6 @@
 <h1> Hello there,</h1>
 
-this is a page about myself, and its under construction :)
+this is a page about myself, and its under construction.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=julialoeschel&theme=tokyonight_duo)](https://git.io/streak-stats)
 
