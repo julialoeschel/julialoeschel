@@ -2,7 +2,7 @@
 
 Thanks for stopping by!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${julialoeschel})
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=julialoeschel.visitor-badge&left_color=violet&right_color=black) 
 ![Mood](https://img.shields.io/badge/mood-happy-success)
 ![Mood](https://img.shields.io/badge/excited-about%20Frontend-yellow)
 
